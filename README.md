@@ -1,4 +1,4 @@
-# Project Report: Analysis of Student Performance
+# Analysis of Student Performance
 ## Objective:
 The goal of this project was to analyze the factors influencing student performance, specifically focusing on their math_score and reading_score. We aimed to identify if variables such as gender, attendance rate, and study hours have a significant impact on student performance, using statistical techniques such as correlation analysis and regression modeling.
 
